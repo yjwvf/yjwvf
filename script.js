@@ -185,7 +185,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    console.log('陌客®全球推广网站已加载完成！');
+    console.log('天成®全球推广网站已加载完成！');
     console.log('联系方式：热线/微信 13922854199');
     console.log('邮箱：micronet@Micronet.com.cn');
 });
