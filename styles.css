@@ -70,6 +70,13 @@ body {
     margin-right: 10px;
 }
 
+.navbar-logo {
+    height: 35px;
+    width: auto;
+    max-width: 120px;
+    object-fit: contain;
+}
+
 .navbar-nav {
     display: flex;
     list-style: none;
