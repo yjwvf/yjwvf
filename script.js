@@ -173,7 +173,7 @@ document.addEventListener('DOMContentLoaded', function() {
     ctaButtons.forEach(button => {
         button.addEventListener('click', function(e) {
             e.preventDefault();
-            alert('立即咨询 ShopPro 海外商城解决方案！\n\n热线/微信：15112436042');
+            alert('立即咨询 Wordpress 海外商城解决方案！\n\n热线/微信：15112436042');
         });
     });
 
