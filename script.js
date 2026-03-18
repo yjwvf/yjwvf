@@ -184,8 +184,4 @@ document.addEventListener('DOMContentLoaded', function() {
             alert('立即咨询社交媒体营销解决方案！\n\n热线/微信：15112436042');
         });
     });
-
-    console.log('天成®全球推广网站已加载完成！');
-    console.log('联系方式：热线/微信 15112436042');
-    console.log('邮箱：zhangcheng@tianchenginfo.com');
 });
