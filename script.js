@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const planName = card.querySelector('h4').textContent;
             const price = card.querySelector('h3').textContent;
             
-            alert(`感谢您对 ${planName} (${price}) 的兴趣！\n\n请联系我们：\n热线/微信 13922854199`);
+            alert(`感谢您对 ${planName} (${price}) 的兴趣！\n\n请联系我们：\n热线/微信 15112436042`);
         });
     });
 
@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', function() {
     contactButtons.forEach(button => {
         button.addEventListener('click', function(e) {
             e.preventDefault();
-            alert(`立即联系我们！\n\n热线/微信：13922854199\n邮箱：micronet@Micronet.com.cn`);
+            alert(`立即联系我们！\n\n热线/微信：15112436042\n邮箱：zhangcheng@tianchenginfo.com`);
         });
     });
 
@@ -173,7 +173,7 @@ document.addEventListener('DOMContentLoaded', function() {
     ctaButtons.forEach(button => {
         button.addEventListener('click', function(e) {
             e.preventDefault();
-            alert('立即咨询 ShopPro 海外商城解决方案！\n\n热线/微信：13922854199');
+            alert('立即咨询 ShopPro 海外商城解决方案！\n\n热线/微信：15112436042');
         });
     });
 
@@ -181,11 +181,11 @@ document.addEventListener('DOMContentLoaded', function() {
     snsButtons.forEach(button => {
         button.addEventListener('click', function(e) {
             e.preventDefault();
-            alert('立即咨询社交媒体营销解决方案！\n\n热线/微信：13922854199');
+            alert('立即咨询社交媒体营销解决方案！\n\n热线/微信：15112436042');
         });
     });
 
     console.log('天成®全球推广网站已加载完成！');
-    console.log('联系方式：热线/微信 13922854199');
-    console.log('邮箱：micronet@Micronet.com.cn');
+    console.log('联系方式：热线/微信 15112436042');
+    console.log('邮箱：zhangcheng@tianchenginfo.com');
 });
